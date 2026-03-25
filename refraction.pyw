@@ -13,8 +13,6 @@ window.minsize(350, 400)
 resultado = tk.StringVar()
 
 # function
-
-
 def ShowResult():
     to_rads = 3.141592653589793 / 180
     to_degrees = 180 / 3.141592653589793
