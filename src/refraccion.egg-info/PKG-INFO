@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: refraccion
+Version: 0.1.0
+Summary: Refracción: la ley de Snell explicada y dibujada
+Author: DZM
+Requires-Python: >=3.10
+Requires-Dist: PySide6>=6.6
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
+Requires-Dist: pytest-cov>=5; extra == "dev"
+Requires-Dist: pytest-qt>=4.4; extra == "dev"
+Requires-Dist: hypothesis>=6.100; extra == "dev"
+Requires-Dist: pyinstaller>=6; extra == "dev"

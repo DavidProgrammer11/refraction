@@ -1,0 +1,18 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(2, 1, 0, 0), prodvers=(2, 1, 0, 0)),
+  kids=[
+    StringFileInfo([
+      StringTable('0C0A04B0', [
+        StringStruct('CompanyName', 'DZM'),
+        StringStruct('FileDescription', 'Refracción'),
+        StringStruct('FileVersion', '2.1.0'),
+        StringStruct('InternalName', 'Refraccion'),
+        StringStruct('OriginalFilename', 'Refraccion.exe'),
+        StringStruct('ProductName', 'Refracción'),
+        StringStruct('ProductVersion', '2.1.0'),
+        StringStruct('LegalCopyright', 'DZM'),
+      ])
+    ]),
+    VarFileInfo([VarStruct('Translation', [0x0C0A, 1200])])
+  ]
+)
